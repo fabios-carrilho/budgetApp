@@ -1,2 +1,2 @@
-# testrepo
-Test repo created to test SourceTree
+# budgetApp
+Budget App repo created to test SourceTree and Compare Folders.
